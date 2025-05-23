@@ -10,7 +10,6 @@
   <li>Each correct answer wins a <strong>higher cash prize</strong>.</li>
   <li>The player enters their answer by typing <code>a</code>, <code>b</code>, <code>c</code>, or <code>d</code>.</li>
   <li>If the answer is incorrect, the correct option is shown and the game ends.</li>
-  <li>If all questions are answered correctly, the player wins the <strong>grand prize of ₹1,000,000</strong>.</li>
 </ul>
 
 <hr>
@@ -75,12 +74,6 @@ Enter your answer (a, b, c, d, 5050, skip):
 </code></pre>
 
 <hr>
-
-<h2>🚀 Future Improvements</h2>
-<ul>
-  <li>Save high scores</li>
-  <li>GUI version using Tkinter</li>
-</ul>
 
 <hr>
 
